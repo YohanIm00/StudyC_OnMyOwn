@@ -1,0 +1,4 @@
+﻿  Exercise3-3.c
+C:\Users\USER\StudyC_on my own\Chap.03\03-1\Exercise3-3\Exercise3-3.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\USER\StudyC_on my own\Chap.03\03-1\Exercise3-3\Exercise3-3.c(15,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  Exercise3-3.vcxproj -> C:\Users\USER\StudyC_on my own\Chap.03\03-1\Exercise3-3\x64\Debug\Exercise3-3.exe
