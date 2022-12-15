@@ -1,0 +1,3 @@
+﻿  Exercise3-5.c
+C:\Users\USER\StudyC_on my own\Chap.03\03-1\Exercise3-5\Exercise3-5.c(5,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Exercise3-5.vcxproj -> C:\Users\USER\StudyC_on my own\Chap.03\03-1\Exercise3-5\x64\Debug\Exercise3-5.exe
